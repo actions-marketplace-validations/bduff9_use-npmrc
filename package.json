@@ -46,7 +46,7 @@
     "eslint": "7.20.0",
     "eslint-plugin-github": "4.1.1",
     "eslint-plugin-import": "2.22.1",
-    "eslint-plugin-jest": "24.1.5",
+    "eslint-plugin-jest": "27.1.6",
     "eslint-plugin-prettierx": "0.17.1",
     "husky": "5.0.9",
     "jest": "26.6.3",
